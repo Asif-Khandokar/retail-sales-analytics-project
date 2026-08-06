@@ -163,7 +163,7 @@ retail-analytics/
     ├── customer_analytics.png
     ├── product_performance.png
     └── regional_performance.png
-
+```
 
 ## Conclusion
 
