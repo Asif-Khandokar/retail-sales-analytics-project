@@ -134,34 +134,35 @@ Explores geographic performance, including:
 
 ### Executive Overview
 
-![Executive Overview](Dashboard%20Screenshots/01_executive_overview.png)
+![Executive Overview](Dashboard%20Screenshots/executive_overview.png)
+
 
 ### Customer Analytics
 
-![Customer Analytics](Dashboard%20Screenshots/02_customer_analytics.png)
+![Customer Analytics](Dashboard%20Screenshots/customer_analytics.png)
 
 ### Product Performance
 
-![Product Performance](Dashboard%20Screenshots/03_product_performance.png)
+![Product Performance](Dashboard%20Screenshots/product_performance.png)
 
 ### Regional Performance
 
-![Regional Performance](Dashboard%20Screenshots/04_regional_performance.png)
+![Regional Performance](Dashboard%20Screenshots/regional_performance.png)
 
 ## Repository Structure
 
 ```text
-Retail Analytics Project/
-├── Power BI/
-│   └── Retail Analytics Dashboard.pbix
+retail-analytics-dashboard/
+├── README.md
 ├── SQL/
 │   └── retail_analytics.sql
-├── Dashboard Screenshots/
-│   ├── 01_executive_overview.png
-│   ├── 02_customer_analytics.png
-│   ├── 03_product_performance.png
-│   └── 04_regional_performance.png
-└── README.md
+├── Power BI/
+│   └── Retail Analytics Dashboard.pbix
+└── Dashboard Screenshots/
+    ├── executive_overview.png
+    ├── customer_analytics.png
+    ├── product_performance.png
+    └── regional_performance.png
 
 ## Conclusion
 
