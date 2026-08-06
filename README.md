@@ -152,7 +152,7 @@ Explores geographic performance, including:
 ## Repository Structure
 
 ```text
-retail-analytics-dashboard/
+retail-analytics/
 ├── README.md
 ├── SQL/
 │   └── retail_analytics.sql
@@ -163,6 +163,7 @@ retail-analytics-dashboard/
     ├── customer_analytics.png
     ├── product_performance.png
     └── regional_performance.png
+
 
 ## Conclusion
 
