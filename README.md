@@ -1,4 +1,4 @@
-# Retail Analytics Dashboard
+# Retail Analytics
 
 An end-to-end retail analytics portfolio project built using PostgreSQL, SQL, and Power BI.
 
